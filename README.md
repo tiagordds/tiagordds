@@ -42,9 +42,9 @@ I’m always looking to expand my knowledge and skills. Currently, I’m focusin
 
 I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:
 
-- **GitHub**: [tiagordds](https://github.com/tiagordds)
-- **Email**: [yutri.trds@gmail.com](yutri.trds@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tiagordds/)
+-  [GitHub](https://github.com/tiagordds)
+-  [Email](yutri.trds@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/tiagordds/)
 
 ---
 
