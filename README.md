@@ -26,10 +26,6 @@ Here are some of my personal projects:
    - Includes features like rich text editing (CKEditor), categories, tags, and search functionality.
    - [View Repository](https://github.com/tiagordds/projeto-blog-django)
 
-### 3. [Calculator Project](https://github.com/tiagordds/calculator_project)
-   - A simple calculator application built with **Python** and **Tkinter** for the GUI.
-   - Supports basic arithmetic operations and has a clean, user-friendly interface.
-   - [View Repository](https://github.com/tiagordds/calculator_project)
 
 ## 🌱 What I’m Currently Learning
 
