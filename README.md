@@ -32,7 +32,7 @@ Here are some of my personal projects:
 I’m always looking to expand my knowledge and skills. Currently, I’m focusing on:
 - **Advanced Django**: Improving my backend development skills.
 - **React**: Learning frontend frameworks to build dynamic web applications.
-- **Machine Learning**: Learning frameworks to build machine learning softwares
+- **AI & Machine Learning**: Taking online courses to build a strong foundation in AI concepts and techniques.
 
 ## 📫 Let’s Connect!
 
